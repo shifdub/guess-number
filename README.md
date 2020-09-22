@@ -2,6 +2,8 @@
 
 ## Group Members
 
-*Shayan
-*isaac
-*John
+*Shayan  **Shayan96505
+
+*isaac   **shifdub
+
+*John   **John-Jaramillo
